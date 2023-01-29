@@ -1,0 +1,13 @@
+{
+  "name": "playwright-jenkins-task",
+  "version": "1.0.0",
+  "description": "## Prerequsites - Jenkins should be installed with docker plugin - If want more appropriate can also add agent for running job not here.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
